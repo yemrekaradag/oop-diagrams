@@ -47,3 +47,18 @@ Pilots are employed by airline companies, and each pilot has a specific experien
 Each aircraft type may require a certain number of pilots to operate.
 
 To represent this structure, I designed a Class Diagram that models the relationships between airlines, aircraft, pilots, and flights.
+
+# Online Movie Rental System
+
+In this project, I designed a system for an online movie application where users can buy or rent films.
+
+The system includes the following main features:
+
+Movies can be listed and sorted within the application.
+Users can subscribe to the platform.
+To activate a subscription, users purchase credits through the system.
+Only subscribed users can rent movies, and the corresponding credit amount for each rental is deducted from their account.
+Both regular users and subscribers can purchase movies.
+If a movie is not currently available, users can submit a request for it.
+
+To represent this functionality, I created a Class Diagram that models the relationships between users, subscriptions, credits, and movies.
