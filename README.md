@@ -1,4 +1,4 @@
-University Management System:
+# University Management System:
 
 I designed a system that represents the organizational structure of a university.
 Here’s what I implemented:
